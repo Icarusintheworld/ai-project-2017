@@ -11,3 +11,5 @@ __Code__<br>
 convert_gray.py   处理图片的代码<br> 
 filter.py         过滤重复标注文档的代码<br> 
 input.py          进行Xtrain，Ytrain输入的代码，其中Xtrain得到的是numpy转换的矩阵，Ytrain是对应图片的label<br> 
+
+（注：图片因为比较大我就不上传了）
